@@ -1,0 +1,21 @@
+h1{
+    color:orangered;
+}
+
+body{
+    background-color:beige;
+}
+
+h2{
+    color: lime;
+}
+
+p{
+    color: brown;
+}
+
+
+.x h1{
+ color: blue;
+ font-size: 11px;
+}
